@@ -11,7 +11,7 @@
 - hello   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Blockchain and other related Technologies 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -70,7 +70,7 @@
 <a href="https://github.com/prithvi009" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Prithviraj Awatade" target="_blank">
+<a href="https://linkedin.com/in/prithviraj-awatade-161352181" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -105,4 +105,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
