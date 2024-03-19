@@ -5,16 +5,13 @@
 ### <div align="center">I'm Prithviraj, a full-time Block-chain developer 👨‍💻 working remotely since 2020🚀</div>  
   
 
-- I'm currently Working on some projects  
+- I'm currently Working Remotely  
   
 
 - hello   
   
 
-- ❓ Ask me about anything related to Blockchain and other related Technologies 
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ❓ Ask me about anything related to Blockchain and other related technologies 
   
 
 <br/>  
