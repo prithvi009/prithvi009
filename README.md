@@ -2,7 +2,7 @@
 <!-- ### <div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=prithvi009&&theme=dark)](https://git.io/streak-stats) </div>   -->
   
 
-### <div align="center">I'm Prithviraj, a full-time Block-chain developer 👨‍💻 working remotely since 2020🚀</div>  
+### <div align="center">I'm Prithviraj, a Block-chain developer 👨‍💻</div>  
   
 
 - I'm currently Working Remotely  
